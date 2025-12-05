@@ -263,7 +263,6 @@ class _ProfilePageState extends State<ProfilePage> {
                 const Divider(height: 1),
                 InkWell(
                   onTap: () {
-                    // Handle language selection
                   },
                   child: Padding(
                     padding: const EdgeInsets.symmetric(vertical: 12),

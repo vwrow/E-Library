@@ -22,7 +22,6 @@ class MainApp extends StatelessWidget {
         "/splash": (context) => splashScreen(),
         "/login": (context) => loginPage(),
         "/home": (context) => homePage(),
-        // "/profile": (context) => profilePage(),
       },
 
     );
